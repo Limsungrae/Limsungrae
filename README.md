@@ -52,11 +52,7 @@ Django 기반 웹 프로젝트 학습
 
 ---
 
-# 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Limsungrae&show_icons=true)
-
----
 
 # 📫 Contact
 
